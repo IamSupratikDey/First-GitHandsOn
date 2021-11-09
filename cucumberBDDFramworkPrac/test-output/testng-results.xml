@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31270" started-at="2021-10-31T08:09:26Z" finished-at="2021-10-31T08:09:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31270" started-at="2021-10-31T08:09:26Z" finished-at="2021-10-31T08:09:57Z">
+      <class name="com.bdd.runner.ContactTestCase">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.bdd.runner.ContactTestCase@4f209819]" name="setup" is-config="true" duration-ms="1851" started-at="2021-10-31T08:09:26Z" finished-at="2021-10-31T08:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ValidHomeService()[pri:1, instance:com.bdd.runner.ContactTestCase@4f209819]" name="ValidHomeService" duration-ms="16416" started-at="2021-10-31T08:09:28Z" finished-at="2021-10-31T08:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidHomeService -->
+        <test-method status="PASS" signature="bookhomecareService()[pri:2, instance:com.bdd.runner.ContactTestCase@4f209819]" name="bookhomecareService" duration-ms="11997" started-at="2021-10-31T08:09:44Z" finished-at="2021-10-31T08:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookhomecareService -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.bdd.runner.ContactTestCase@4f209819]" name="close" is-config="true" duration-ms="725" started-at="2021-10-31T08:09:56Z" finished-at="2021-10-31T08:09:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.bdd.runner.ContactTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
